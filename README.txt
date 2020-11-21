@@ -1,4 +1,4 @@
-Encryption/decryption
+Encryption/decryption (comments in the code in Russian)
 
 Encryption and decryption in two ways: the Caesar cipher and using the dial. 
 Entering text for encryption / decryption is possible from the console or from a file. 
